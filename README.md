@@ -28,7 +28,7 @@ Rotate the image using cv2.rotate(smaller_frame,cv2.cv2.ROTATE_180)
 Display the image until the key to close the window is pressed
 
 ## Program:
-``` 
+
 ### Developed By:V NAVEENKUMAR
 ### Register No:212221230068
 
